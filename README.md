@@ -2,6 +2,8 @@
 
 A simple landing page clone of [Cursor](https://cursor.com/) built using HTML and CSS.
 
+Preview: ![Cursor Clone Preview](https://ik.imagekit.io/zk9yllrd0/cursor-clone-beryl.vercel.app.png)
+
 ## Features
 
 - Navigation bar
